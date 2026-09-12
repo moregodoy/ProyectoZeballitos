@@ -1,1 +1,0 @@
-console.log("Sistema de Gestión de Calidad cargado correctamente");
